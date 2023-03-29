@@ -4,3 +4,6 @@
 [submodule "themes/huguette"]
 	path = themes/huguette
 	url = https://github.com/cathelijne/hugo-theme-huguette.git
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/theNewDynamic/gohugo-theme-ananke.git
