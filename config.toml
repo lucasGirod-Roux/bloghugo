@@ -1,4 +1,4 @@
-baseURL = "https://tacosommation.netlify.app/"
+baseURL = "https://tacosomation.netlify.app/"
 canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
