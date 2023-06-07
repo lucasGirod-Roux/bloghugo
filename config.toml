@@ -1,13 +1,10 @@
 baseURL = "https://tacosomation.netlify.app/"
-canonifyURLs=true
 summaryLength   = 25
 disableHugoGeneratorInject = true
 
 theme           = "BlogRa"
 languageCode    = "en-us"
 title           = "Tacosommation"
-
-disqusShortname = ""
 
 [params]
     description     = "je vous fais part de mes avis sur les tacos"
