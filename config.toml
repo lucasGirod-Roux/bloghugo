@@ -1,7 +1,7 @@
 baseURL = "https://tacosomation.netlify.app/"
 canonifyURLs=true
-pluralizeListTitles = false
 summaryLength   = 25
+disableHugoGeneratorInject = true
 
 theme           = "BlogRa"
 languageCode    = "en-us"
