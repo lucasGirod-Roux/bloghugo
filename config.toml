@@ -3,7 +3,7 @@ canonifyURLs=true
 pluralizeListTitles = false
 summaryLength   = 25
 
-theme           = "ananke"
+theme           = "BlogRa"
 languageCode    = "en-us"
 title           = "Tacosommation"
 
